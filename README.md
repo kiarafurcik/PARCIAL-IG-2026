@@ -1,2 +1,5 @@
-# PARCIAL-IG-2026
-Primer parcial de Informática General - Furci Kiara
+Kiara Constanza Furci Kupelian
+
+Primer Parcial - Informática General
+
+Artes Multimediales - UNA
